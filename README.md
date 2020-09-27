@@ -12,13 +12,13 @@ Built with Laravel 8
 ### HOW TO CONFIGURE
 
 * Clone project to your computer
-* Run `php artisan migrate:fresh --seed` to run migrations and seeds
 * Run `composer install`
 * Create a `.env` file and copy the contents from `.env.example` to it
 * Edit the .env file and set your database parameters
 * Change the default `REQUIRE_PASS_STRING` password to your custom string on the .env file
 * Change the default `FEEDBACK_ADMIN_EMAIL` to the admin email address you desire on the .env file
 * Configure your Mail settings accordingly on the .env file
+* Run `php artisan migrate:fresh --seed` to run migrations and seeds
 * Run `php artisan serve` to get the project working
 * Visit the server address generated usually 127.0.0.1:8080 or whatever yours is
 
