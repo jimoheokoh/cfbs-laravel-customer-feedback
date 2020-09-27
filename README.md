@@ -33,7 +33,7 @@ Built with Laravel 8
 
 ### DEMO
 
-[video] (http://demos.ekizone.com/hostedfiles/cfbsv1.mp4)
+![video](http://demos.ekizone.com/hostedfiles/cfbsv1.mp4)
 
 ### ISSUES & FUTURE WORKS?
 
