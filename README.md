@@ -31,6 +31,10 @@ Built with Laravel 8
 * Admin receives an email notifying them of new submitted response
 * Admin accesses the responses list on the app by entering a password (currently no authentication), you have to define your password on the .env file. Check the .env file for the default password
 
+### DEMO
+
+<img src="http://demos.ekizone.com/hostedfiles/cfbsv1.gif" alt="Laravel Customer Feedback Survey (CFBS)">
+
 ### ISSUES & FUTURE WORKS?
 
 * Try fix any issues first before opening an issue ticket, and be polite when you open an issue. 
@@ -38,5 +42,8 @@ Built with Laravel 8
 
 [Developer Email](mailto:okohejimoh@gmail.com)
 
+### Buy Me A Coffee?
+[Send Here](https://paypal.me/210489)
+
 ### License
-MIT
+Laravel Customer Feedback Survey (CFBS) is licensed under the [MIT license](http://opensource.org/licenses/MIT).

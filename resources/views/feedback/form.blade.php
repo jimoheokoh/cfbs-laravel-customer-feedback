@@ -29,7 +29,7 @@ User Feedback Form
         <label style="color:brown">{{$sdata->question}}:</label>
         <input type="hidden" name="data[{{$sdata->id}}][question]" value="{{$sdata->id}}">
         @if($sdata->response_type_id == 2)
-        <textarea name="data[{{$sdata->id}}][response]" cols="30" rows="4"></textarea>
+        <textarea name="data[{{$sdata->id}}][response]" cols="30" rows="2"></textarea>
         @else
         <div class="range-field">
         <input type="{{$sdata->response_type->field_type}}" name="data[{{$sdata->id}}][response]" @if($sdata->response_type_id == 6) min="1" max="10" @endif @if($sdata->required == 1) required @endif @if($sdata->response_type_id == 6) id="start" @endif @if($sdata->required == 1) required @endif />
