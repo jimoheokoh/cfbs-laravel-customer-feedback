@@ -33,7 +33,7 @@ Built with Laravel 8
 
 ### DEMO
 
-<img src="http://demos.ekizone.com/hostedfiles/cfbsv1.gif" alt="Laravel Customer Feedback Survey (CFBS)">
+![] (http://demos.ekizone.com/hostedfiles/cfbsv1.gif)
 
 ### ISSUES & FUTURE WORKS?
 
