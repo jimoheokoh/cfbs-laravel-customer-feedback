@@ -38,7 +38,7 @@ Built with Laravel 8
 ### ISSUES & FUTURE WORKS?
 
 * Try fix any issues first before opening an issue ticket, and be polite when you open an issue. 
-* If you have a major upgrade based on this work, send a pull request
+* If you have a major upgrade based on this work, send a pull request.
 
 [Developer Email](mailto:okohejimoh@gmail.com)
 
