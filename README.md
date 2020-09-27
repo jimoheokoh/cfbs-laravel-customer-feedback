@@ -33,7 +33,7 @@ Built with Laravel 8
 
 ### DEMO
 
-![] (http://demos.ekizone.com/hostedfiles/cfbsv1.gif)
+![gif] (http://demos.ekizone.com/hostedfiles/cfbsv1.gif)
 
 ### ISSUES & FUTURE WORKS?
 
